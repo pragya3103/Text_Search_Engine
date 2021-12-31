@@ -1,3 +1,4 @@
-# tse-r
+# Text Search Engine
 
-text search engine 
+* Searching the relevant document on the based of the query in a efficient way.
+
